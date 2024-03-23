@@ -1,7 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return (
-<div>HEllo Sagar Bhau </div>
-  );
+  return <div>HOME</div>;
 }
